@@ -1,0 +1,270 @@
+﻿++Rozwiązanie „RestaurantApp” ‎(liczba projektów: 1 z 1)
+i:{00000000-0000-0000-0000-000000000000}:RestaurantApp.sln
+++RestaurantApp
+i:{00000000-0000-0000-0000-000000000000}:RestaurantApp
+++Connected Services 
+i:{830204db-e110-4923-8fca-e0f1d309b779}:>437
+++Properties
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\properties\
+++launchSettings.json
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\properties\launchsettings.json
+++wwwroot
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\
+++Zależności
+i:{830204db-e110-4923-8fca-e0f1d309b779}:>436
+++Controllers
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\controllers\
+++RestaurantController.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\controllers\restaurantcontroller.cs
+++Entities
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\entities\
+++Address.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\entities\address.cs
+++Dish.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\entities\dish.cs
+++Restaurant.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\entities\restaurant.cs
+++RestaurantDbContext.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\entities\restaurantdbcontext.cs
+++Migrations
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\migrations\
+++Models
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\models\
+++DishDto.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\models\dishdto.cs
+++RestaurantDto.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\models\restaurantdto.cs
+++Pages
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\
+++appsettings.json
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\appsettings.json
+++Program.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\program.cs
+++RestaurantMappingProfile.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\restaurantmappingprofile.cs
+++RestaurantSeeder.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\restaurantseeder.cs
+++Nie odnaleziono zależności usługi
+i:{830204db-e110-4923-8fca-e0f1d309b779}:>438
+++css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\css\
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\js\
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\
+++favicon.ico
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\favicon.ico
+++Analizatory
+i:{830204db-e110-4923-8fca-e0f1d309b779}:analizatory
+++Pakiety
+i:{830204db-e110-4923-8fca-e0f1d309b779}:pakiety
+++Struktury
+i:{830204db-e110-4923-8fca-e0f1d309b779}:struktury
+++20220204174710_Init.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\migrations\20220204174710_init.cs
+++20220205142209_Init2.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\migrations\20220205142209_init2.cs
+++RestaurantDbContexModelSnapshot.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\migrations\restaurantdbcontexmodelsnapshot.cs
+++Shared
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\shared\
+++_ViewImports.cshtml
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\_viewstart.cshtml
+++Error.cshtml
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\error.cshtml
+++Index.cshtml
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\index.cshtml
+++Privacy.cshtml
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\privacy.cshtml
+++appsettings.Development.json
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\appsettings.development.json
+++site.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\css\site.css
+++site.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\js\site.js
+++bootstrap
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\
+++jquery
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery\
+++jquery-validation
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery-validation-unobtrusive\
+++Microsoft.AspNetCore.Analyzers
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{830204db-e110-4923-8fca-e0f1d309b779}:>451
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{830204db-e110-4923-8fca-e0f1d309b779}:>449
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{830204db-e110-4923-8fca-e0f1d309b779}:>450
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{830204db-e110-4923-8fca-e0f1d309b779}:>452
+++Microsoft.AspNetCore.App
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\microsoft.netcore.app
+++20220204174710_Init.Designer.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\migrations\20220204174710_init.designer.cs
+++20220205142209_Init2.Designer.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\migrations\20220205142209_init2.designer.cs
+++_Layout.cshtml
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\shared\_validationscriptspartial.cshtml
+++Error.cshtml.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\error.cshtml.cs
+++Index.cshtml.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\index.cshtml.cs
+++Privacy.cshtml.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\privacy.cshtml.cs
+++dist
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery\dist\
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery\license.txt
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\pages\shared\_layout.cshtml.css
+++jquery.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Restaurant2Controller.cs
+++CreateRestaurantDto.cs
+i:{830204db-e110-4923-8fca-e0f1d309b779}:c:\users\kamil\desktop\kurs asp net core\tutorial z udemy\restaurantapp\restaurantapp\models\createrestaurantdto.cs
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.1)
+i:{830204db-e110-4923-8fca-e0f1d309b779}:>477
